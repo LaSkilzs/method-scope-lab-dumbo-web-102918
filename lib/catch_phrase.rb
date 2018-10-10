@@ -1,5 +1,6 @@
-phrase = "hey there!"
+
 
 def catch_phrase
+  phrase = "hey there!"
   puts phrase
 end
